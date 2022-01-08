@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating a web apps
 - 🌱 I’m currently learning the very foundation of programming
 - 💞️ I’m looking to collaborate on building different webpages so that i can enhance my knowledge regarding about this.
-- 📫 How to reach me just contact me on my linked account 
+- 📫 How to reach me just contact me on my linked account https://www.linkedin.com/in/michaelcandeza
 
 <!---
 ChaelSatou/ChaelSatou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
